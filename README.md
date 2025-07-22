@@ -81,7 +81,7 @@ Para contribuir com este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/RuanSpinelli">
-        <img src="https://avatars.githubusercontent.com/u/131688980?v=4" width="100px;" alt="Foto do Ruan Spinelli"/><br>
+        <img src="https://avatars.githubusercontent.com/RuanSpinelli" width="100px;" alt="Foto do Ruan Spinelli"/><br>
         <sub>
           <b>Ruan Spinelli</b>
         </sub>
