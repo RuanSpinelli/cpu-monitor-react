@@ -17,8 +17,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão:
 - [x] Exibir uso da CPU em tempo real
 - [x] Estilizar com `styled-components`
 - [x] Responsividade básica
-- [ ] Mostrar histórico de uso
-- [ ] Dark mode automático
+
 
 ---
 
